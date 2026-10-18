@@ -1,0 +1,10 @@
+# Build output
+/_build/
+/deps/
+*.ez
+*.beam
+
+# Editor / tooling
+/.elixir_ls/
+/.fetch
+/cover/
